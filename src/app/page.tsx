@@ -1,9 +1,9 @@
-import CountdownPage from "./countdown/page";
+import ThemeSelecter from "@/components/theme-selecter";
 
 export default function Home() {
   return (
     <div>
-      <CountdownPage />
+      <ThemeSelecter />
     </div>
   );
 }
