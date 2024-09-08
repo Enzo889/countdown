@@ -1,9 +1,10 @@
-import ThemeSelecter from "@/components/theme-selecter";
+import Homepage from "@/components/home";
 
 export default function Home() {
+
   return (
     <div>
-      <ThemeSelecter />
+      <Homepage />
     </div>
   );
 }
